@@ -1,1 +1,2 @@
 mlikiowa/napcat-docker:latest
+estrellaxd/auto_bangumi:latest
